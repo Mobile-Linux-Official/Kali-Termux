@@ -1,8 +1,8 @@
 # Kali-Termux
-Pertama kita ketikan perintah
- $ pkg update
- $ pkg install wget
- $ wget 
- $ chmod +x install-nethunter
- $ ./install-nethunter
-Tunggu hingga selesai.
+<h2>Pertama kita ketikan perintah</h2>
+<p> $ pkg update </p>
+<p> $ pkg install wget</p>
+<P> $ wget </p>
+<p> $ chmod +x install-nethunter </p>
+<p> $ ./install-nethunter </p>
+<h2> Tunggu hingga selesai. </h2>
